@@ -1,0 +1,7 @@
+li a {
+  color: lightcyan;
+  font-size: 5em;
+}
+body {
+  background: darkorchid url("images/background.webp") no-repeat;
+}
